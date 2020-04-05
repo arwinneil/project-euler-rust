@@ -5,7 +5,6 @@ fn main() {
 
     let mut largest_palindrome:u32 = 0;
 
-
     for i in (100..1000).rev() {
         for j in (100..1000).rev() {
 

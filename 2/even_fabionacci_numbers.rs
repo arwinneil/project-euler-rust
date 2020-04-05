@@ -8,7 +8,6 @@ fn main() {
     let mut current:u32 = 2;
     let mut previous:u32 = 1;
     let mut buffer:u32;
-
     let mut sum:u32 = 2;
 
     while current < 4000000{
@@ -24,5 +23,4 @@ fn main() {
     }
 
     println!("Sum of all even fabionacci terms below 4000000 : {}",sum);
-
 }
