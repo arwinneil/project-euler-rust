@@ -27,7 +27,9 @@ fn  main() {
 		while num % 2 ==0 {
 		num= num/2
 	}
-		largest_prime_factor = 2;
+
+	largest_prime_factor = 2;
+	
 	}
 	for i in (3..=((num as f64).sqrt() as u64)).step_by(2) {
 		while num % i == 0{
