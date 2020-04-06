@@ -8,3 +8,5 @@ Repo for archiving personal solutions to the Project Euler problem archive. Solu
 3. [Largest prime factor](3/largest_prime_factor.rs)
     - [Variation : Prime factor of any number](3/variation_largest_prime_factor_any_number.rs) 
 4. [Largest palindrome product](4/largest_palindrome_product.rs)
+    - [Variation : All palindrome made from the product of two 3-digit numbers](4/variation_palindromes_product_of_2_three_digit_numbers.rs
+)
