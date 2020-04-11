@@ -1,4 +1,4 @@
-# [Project Euler](https://projecteuler.net/) in Rust <img align="right" src="https://projecteuler.net/profile/arwinneil.png#1">
+# [Project Euler](https://projecteuler.net/) in Rust <img align="right" src="https://projecteuler.net/profile/arwinneil.png#10">
 
 
 Repo for archiving personal solutions to the Project Euler problem archive. Solutions styled towards subjective compromise between performance, presentation of mathematical theories, reusability, and sometimes with variations on the problems. 
@@ -18,3 +18,4 @@ Repo for archiving personal solutions to the Project Euler problem archive. Solu
 7. [10001st prime](7/10001st_prime.rs)
 8. [Largest product in a series](8/largest_product_in_a_series.rs)
 9. [Special Pythagorean triplet](9/special_pythagorean_triplet.rs)
+10. [Summation of primes](10/summation_of_primes.rs)
