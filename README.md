@@ -12,3 +12,4 @@ Repo for archiving personal solutions to the Project Euler problem archive. Solu
 4. [Largest palindrome product](4/largest_palindrome_product.rs)
     - [Variation : All palindrome made from the product of two 3-digit numbers](4/variation_palindromes_product_of_2_three_digit_numbers.rs
 )
+5. [Smallest multiple](5/smallest_multiple.rs)
