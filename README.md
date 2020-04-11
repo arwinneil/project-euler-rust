@@ -17,3 +17,4 @@ Repo for archiving personal solutions to the Project Euler problem archive. Solu
 6. [Sum square difference](6/sum_square_difference.rs)
 7. [10001st prime](7/10001st_prime.rs)
 8. [Largest product in a series](8/largest_product_in_a_series.rs)
+9. [Special Pythagorean triplet](9/special_pythagorean_triplet.rs)
