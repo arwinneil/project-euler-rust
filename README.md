@@ -14,3 +14,4 @@ Repo for archiving personal solutions to the Project Euler problem archive. Solu
 )
 5. [Smallest multiple](5/smallest_multiple.rs)
     - [Variation : Smallest number evenly divisible from all numbers from 1 to n](5/variation_smallest_num_divisible_1_n.rs)
+6. [Sum square difference](6/sum_square_difference.rs)
