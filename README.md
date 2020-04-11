@@ -1,4 +1,4 @@
-# [Project Euler](https://projecteuler.net/) in Rust <img align="right" src="https://projecteuler.net/profile/arwinneil.png">
+# [Project Euler](https://projecteuler.net/) in Rust <img align="right" src="https://projecteuler.net/profile/arwinneil.png#1">
 
 
 Repo for archiving personal solutions to the Project Euler problem archive. Solutions styled towards subjective compromise between performance, presentation of mathematical theories, reusability, and sometimes with variations on the problems. 
@@ -16,3 +16,4 @@ Repo for archiving personal solutions to the Project Euler problem archive. Solu
     - [Variation : Smallest number evenly divisible from all numbers from 1 to n](5/variation_smallest_num_divisible_1_n.rs)
 6. [Sum square difference](6/sum_square_difference.rs)
 7. [10001st prime](7/10001st_prime.rs)
+8. [Largest product in a series](8/largest_product_in_a_series.rs)
