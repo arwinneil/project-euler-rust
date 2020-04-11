@@ -1,4 +1,5 @@
-# [Project Euler](https://projecteuler.net/) in Rust
+# [Project Euler](https://projecteuler.net/) in Rust <img align="right" src="https://projecteuler.net/profile/arwinneil.png">
+
 
 Repo for archiving personal solutions to the Project Euler problem archive. Solutions styled towards subjective compromise between performance, presentation of mathematical theories and reusability, and sometimes with variations on the problems. 
 
