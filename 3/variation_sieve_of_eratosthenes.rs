@@ -26,12 +26,16 @@ fn main (){
 
 	println!("");
 
-	println!("Prime numbers occuring up to {} inclusive : " , input);
+	let mut prime: Vec<u32> = Vec::new();
+
 	for i in 2..sieve.len(){
 		if sieve[i as usize] == true {
 			
-			println!("{}" , i);
-		
+			prime.push(i as u32)
 		}
 	}
+
+	println!("Prime numbers occuring up to {} inclusive : " , input);
+	
+	println!("{:#?}",prime);
 }
